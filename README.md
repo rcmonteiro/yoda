@@ -5,6 +5,10 @@ Yoda wisdom quotes
 
 Just copy yoda and yoda.quotes to your /usr/bin directory
 
+Now make yoda executable:
+
+$ chmod +x /usr/bin/yoda
+
 Then, just run
 
 $ yoda
